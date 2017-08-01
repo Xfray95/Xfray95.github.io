@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hey Haw"
-date:   2017-08-01 14:21:01 +0000
-categories: NA
----
-
-Hey you, yes, this is my (Karl's) site. It's a little bare bones at the moment, I created it with a program that created a basic template to begin with.
