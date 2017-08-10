@@ -21,6 +21,7 @@ p {
 .video {
   border: 5px solid #FFF;
   margin: 10px;
+  align: center;
 }
 
 #footer {
