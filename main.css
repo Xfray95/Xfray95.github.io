@@ -6,18 +6,18 @@ body {
 
 h1 {
   text-align: center;
-  color: "FloralWhite";
+  color: rgb(250,235,215);
 }
 
 h2 {
-  color: "FloralWhite";
+  color: rgb(250,235,215);
 }
 
 p1 {
-  color: "FloralWhite";
+  color: rgb(250,235,215);
 }
 
 .footer {
-  color: "FloralWhite";
+  color: rgb(250,235,215);
 }
 
