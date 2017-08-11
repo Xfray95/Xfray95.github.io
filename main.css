@@ -30,11 +30,12 @@ p {
 
 #footer {
   color: rgb(250,235,215);
+  float: left;
 }
 
 nav li {
   display: inline;
-  padding: 0 5px;
+  padding: 0 10px;
 }
 
 nav ul {
